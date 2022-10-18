@@ -1,0 +1,46 @@
+#first {
+    min-height: 500px;
+}
+#first-nome {
+    text-align: center;
+}
+#first-left {    
+    float: left;
+    width: 300px;
+    margin-left: 50px;
+}
+#first-right {
+    float: right;
+    max-width: 35%;
+    margin-left: 20px;
+    padding: 10px 60px;
+    background-color: grey;
+}
+#second {
+    min-height: 300px;
+    margin-left: 40px;
+}
+#second-hab:nth-child(odd) {
+    font-style: italic;
+}
+h1 {
+    font-family: "Great Vibes", sans-serif;
+}
+p {
+    font-family: "Fuzzy Bubbles", sans-serif;
+}
+body {
+    background-color: black;
+    color: green;
+}
+#Nacionalidade {
+    font-size: 20px;
+    text-decoration: solid;
+    font-weight: 300;
+}
+ul {
+    font-size: 16px;
+}
+.Principal {
+    font-size: 1.5em;
+}
