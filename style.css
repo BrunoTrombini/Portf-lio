@@ -20,7 +20,8 @@
     min-height: 300px;
     margin-left: 40px;
 }
-#second-hab:nth-child(odd) {
+#second-hab li:nth-child(odd) {
+    text-decoration: underline;
     font-style: italic;
 }
 h1 {
